@@ -5,7 +5,7 @@ function App() {
   const posts = [
     {
       title: "First small note",
-      date: "Feb 21, 2027",
+      date: "Feb 21, 2028",
       content: `
         Today I decided to make everything simpler.
         Less dependencies, less folders, less thinking.
