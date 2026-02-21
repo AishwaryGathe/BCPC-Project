@@ -9,7 +9,7 @@ export default defineConfig({
     host: true,  // already have this for external access
 
     allowedHosts: [
-      'alb-1337245831.us-east-1.elb.amazonaws.com',  // ← add your exact ALB DNS here
+      'alb-851297386.us-east-1.elb.amazonaws.com',  // ← add your exact ALB DNS here
       // Or for safety + future-proof: allow all *.elb.amazonaws.com subdomains
       '.elb.amazonaws.com',
     ],

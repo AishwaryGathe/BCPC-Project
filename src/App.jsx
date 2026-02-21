@@ -5,9 +5,9 @@ function App() {
   const posts = [
     {
       title: "First small note",
-      date: "Feb 21, 2028",
+      date: "Feb 22, 2026",
       content: `
-        Today I decided to make everything simpler.
+        Today i,m presenting the cloud knowledge infront of BIT decided to make everything simpler.
         Less dependencies, less folders, less thinking.
         Just write → see result.
       `
