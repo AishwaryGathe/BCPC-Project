@@ -8,7 +8,8 @@ function App() {
       date: "March 6th, 2026",
       content: `
         Hey we Are performing the Live today with the team KDK GFG Chapter..
-      `
+
+        I,m ending this session Thank you   `
     },
     {
       title: "Why minimal feels better now",
