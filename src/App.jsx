@@ -5,11 +5,10 @@ function App() {
   const posts = [
     {
       title: "First small note",
-      date: "March 6th, 2026",
+      date: "April 6th, 2026",
       content: `
-        Hey we Are performing the Live today with the team of DS St. VPallotiCET 
-
-        I,m ending this session Thank you   `
+        Hey we Are performing the Live today with the team of GCOEN
+        TO be Continued...   `
     },
     {
       title: "Why minimal feels better now",
