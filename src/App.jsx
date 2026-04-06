@@ -11,7 +11,7 @@ function App() {
         TO be Continued...   `
     },
     {
-      title: "Why minimal feels better now",
+      title: "Hello Aishwary Why minimal feels better now",
       date: "Feb 19, 2026",
       content: `
         After trying fifteen frameworks, shiny dashboards 
